@@ -1,0 +1,20 @@
+{
+  "dev": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-subasta-dev-100659-authRole",
+      "UnauthRoleArn": "arn:aws:iam::659988415259:role/amplify-subasta-dev-100659-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::659988415259:role/amplify-subasta-dev-100659-authRole",
+      "Region": "us-east-1",
+      "DeploymentBucketName": "amplify-subasta-dev-100659-deployment",
+      "UnauthRoleName": "amplify-subasta-dev-100659-unauthRole",
+      "StackName": "amplify-subasta-dev-100659",
+      "StackId": "arn:aws:cloudformation:us-east-1:659988415259:stack/amplify-subasta-dev-100659/161dc580-3cc0-11ec-aab5-12f248c8fd2b",
+      "AmplifyAppId": "d2dhduk55c27lp"
+    },
+    "categories": {
+      "auth": {
+        "subasta948c1d8b": {}
+      }
+    }
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "AppSyncApiName": "subasta",
+  "DynamoDBBillingMode": "PAY_PER_REQUEST",
+  "DynamoDBEnableServerSideEncryption": false,
+  "AuthCognitoUserPoolId": {
+    "Fn::GetAtt": [
+      "authsubasta948c1d8b",
+      "Outputs.UserPoolId"
+    ]
+  }
+}
